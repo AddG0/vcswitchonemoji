@@ -151,7 +151,7 @@
           <appendAssemblyId>false</appendAssemblyId>
           <archive>
             <manifest>
-              <mainClass>com.shipperhq.Main</mainClass>
+              <mainClass>com.add.Main</mainClass>
             </manifest>
           </archive>
           <descriptorRefs>
